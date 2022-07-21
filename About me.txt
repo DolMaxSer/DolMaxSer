@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Max
 - 👀 I’m interested in programming userbots for Telegram, because I really like it
 - 🌱 I’m currently learning Django and JS, because I learned web development is very popular now
-- 📫 How to reach me? You can write me in Telegram: http://t.me/coomaniontion
+- 📫 How to reach me? You can write me in Telegram: http://t.me/Bandana_ref
+
